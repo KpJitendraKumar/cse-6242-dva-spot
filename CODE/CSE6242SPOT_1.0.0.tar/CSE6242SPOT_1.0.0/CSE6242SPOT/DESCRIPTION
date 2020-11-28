@@ -1,0 +1,13 @@
+Package: CSE6242SPOT
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 1.0.0
+Author: Apurv Priyam
+Maintainer: Apurv Priyam <apriyam3@gatech.edu>
+Description: App for SPOT (Safe Path Optimization Tool)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.1
+NeedsCompilation: no
+Packaged: 2019-12-06 02:48:43 UTC; apurvpriyam
